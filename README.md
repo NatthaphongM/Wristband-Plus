@@ -119,11 +119,3 @@
 1. **PubSubClient** (by Nick O'Leary) - จัดการโปรโตคอลการรับส่งข้อมูล MQTT
 2. **SparkFun MAX3010x Pulse and Proximity Sensor Library** - อ่านค่าสัญญาณชีวภาพจากเซนเซอร์ MAX30102
 3. **LiquidCrystal I2C** (by Frank de Brabander) - ควบคุมการแสดงผลของหน้าจอ LCD ผ่าน I2C
-
----
-
-## 🚀 Installation & Setup
-
-1. **Clone Repository**
-   ```bash
-   git clone [https://github.com/your-username/esp32-health-monitor.git](https://github.com/your-username/esp32-health-monitor.git)
