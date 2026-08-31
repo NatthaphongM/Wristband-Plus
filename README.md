@@ -240,7 +240,7 @@ flowchart LR
 
 ## 📄 License
 
-Distributed under the **MIT License**. *(ปรับเปลี่ยนได้ตามต้องการ)*
+Distributed under the **MIT License**.
 
 <br/>
 
