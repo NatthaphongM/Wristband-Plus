@@ -206,7 +206,7 @@ flowchart LR
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/your-username/esp32-health-wristband.git
+   git clone https://github.com/NatthaphongM/Wristband-Plus.git
    ```
 2. **ติดตั้ง Board Manager** — เพิ่ม ESP32 boards URL ใน Arduino IDE (`File > Preferences > Additional Board URLs`)
 3. **ติดตั้ง Libraries** ทั้ง 3 ตัวที่ระบุด้านบนผ่าน `Library Manager`
